@@ -1,4 +1,4 @@
 <?php
-$variavel1='Jhonny';
-$sobrenome = 'Salgueiro';
+$variavel1='João';
+$sobrenome = 'Guilherme';
 echo '<h2>OLA ' . $variavel1 ." ". $sobrenome;
